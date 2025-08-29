@@ -1,0 +1,13 @@
+//
+// File created by:  xrun
+// Do not modify this file
+//
+-c
+Arbiter.v
+Mainsystem.v
+UART_XMTR.v
+virtSRAM.v
+WRAP_SRAM.v
+WRAP_UART.v
+tb.v
+-ALLOWREDEFINITION

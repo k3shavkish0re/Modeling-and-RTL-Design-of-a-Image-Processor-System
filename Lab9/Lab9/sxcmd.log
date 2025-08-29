@@ -1,0 +1,108 @@
+### Custom WaveView ADV log file, revision V-2023.12-4 (build Feb 07, ) ###
+### created at 23:15:55 on Wed Oct 30 2024 (Linux AMD64) ###
+### Host Name: n03-poseidon.olympus.ece.tamu.edu   User ID:    PID: 1564481   ###
+wv_start_log
+# (0) running in waveview only mode
+# (0) SW_SX_PERL_LIB defined
+# (0) SW_SX_TCL_LIB defined
+# (0) HOME defined
+sx_open_sim_file_read {wave.dump}
+wv_expand_tree_item {Custom WaveView} {} {hierview} {D0:wave.dump(0)} {+sep=@}
+wv_collapse_tree_item {Custom WaveView} {} {hierview} {D0:wave.dump(0)} {+sep=@}
+wv_expand_tree_item {Custom WaveView} {} {hierview} {D0:wave.dump(0)} {+sep=@}
+wv_expand_tree_item {Custom WaveView} {} {hierview} {D0:wave.dump(0)@stimulus(0)} {+sep=@}
+wv_expand_tree_item {Custom WaveView} {} {hierview} {D0:wave.dump(0)@stimulus(0)@MAINSYSTEM_01(0)} {+sep=@}
+wv_select_tree_item {Custom WaveView} {} {hierview} {D0:wave.dump(0)@stimulus(0)} {0} {+sep=@}
+wv_select_list_item {Custom WaveView} {} {sigview} {AddrBus[31:0]} 0
+wv_dclick_list_item {Custom WaveView} {} {sigview} {AddrBus[31:0]} 0
+wv_select_list_item {Custom WaveView} {} {sigview} {Bgnt} 2
+wv_select_list_item {Custom WaveView} {} {sigview} {Bgnt} 2
+wv_select_list_item {Custom WaveView} {} {sigview} {Bgnt} 2
+wv_dclick_list_item {Custom WaveView} {} {sigview} {Bgnt} 2
+wv_select_list_item {Custom WaveView} {} {sigview} {ControlBus} 4
+wv_dclick_list_item {Custom WaveView} {} {sigview} {ControlBus} 4
+wv_select_list_item {Custom WaveView} {} {sigview} {Breq} 3
+wv_dclick_list_item {Custom WaveView} {} {sigview} {Breq} 3
+wv_select_waveview 1 {waveview 1}
+wv_select_wv_item WV1.PANEL4:1.LEGEND
+wv_select_panel WV1.PANEL4:1.LEGEND
+wv_press_key Delete 308 267
+wv_select_dialog {Confirmation} 
+wv_press_button {Confirmation} {} {Ok} 
+wv_select_waveview 1 {waveview 1}
+wv_select_wv_item WV1.PANEL2:1.LEGEND
+wv_select_panel WV1.PANEL2:1.LEGEND
+wv_press_key Delete 322 226
+wv_select_dialog {Confirmation} 
+wv_press_button {Confirmation} {} {Ok} 
+wv_select_waveview 1 {waveview 1}
+wv_select_wv_item WV1.LEGEND.WIDTH
+wv_drag_item_to WV1 80 188
+wv_move_wv_item WV1.PANEL1:1.LEGEND.WIDTH 219
+wv_select_list_item {Custom WaveView} {} {sigview} {DataBus[7:0]} 5
+wv_select_list_item {Custom WaveView} {} {sigview} {DataBus[7:0]} 5
+wv_dclick_list_item {Custom WaveView} {} {sigview} {DataBus[7:0]} 5
+wv_select_list_item {Custom WaveView} {} {sigview} {Serial_out} 6
+wv_select_list_item {Custom WaveView} {} {sigview} {Serial_out} 6
+wv_dclick_list_item {Custom WaveView} {} {sigview} {Serial_out} 6
+wv_select_list_item {Custom WaveView} {} {sigview} {bReset} 8
+wv_select_list_item {Custom WaveView} {} {sigview} {clk} 9
+wv_select_list_item {Custom WaveView} {} {sigview} {bReset} 8
+wv_select_list_item {Custom WaveView} {} {sigview} {clk} 9
+wv_dclick_list_item {Custom WaveView} {} {sigview} {clk} 9
+wv_select_list_item {Custom WaveView} {} {sigview} {bReset} 8
+wv_dclick_list_item {Custom WaveView} {} {sigview} {bReset} 8
+wv_select_window {Custom WaveView} 
+wv_select_tree_item {Custom WaveView} {} {hierview} {D0:wave.dump(0)@stimulus(0)@MAINSYSTEM_01(0)} {0} {+sep=@}
+wv_select_tree_item {Custom WaveView} {} {hierview} {D0:wave.dump(0)@stimulus(0)} {0} {+sep=@}
+wv_select_tree_item {Custom WaveView} {} {hierview} {D0:wave.dump(0)} {0} {+sep=@}
+wv_select_tree_item {Custom WaveView} {} {hierview} {D0:wave.dump(0)@stimulus(0)} {0} {+sep=@}
+wv_select_tree_item {Custom WaveView} {} {hierview} {D0:wave.dump(0)@stimulus(0)@MAINSYSTEM_01(0)} {0} {+sep=@}
+wv_select_tree_item {Custom WaveView} {} {hierview} {D0:wave.dump(0)@stimulus(0)@MAINSYSTEM_01(0)@Arbiter_01(0)} {0} {+sep=@}
+wv_select_tree_item {Custom WaveView} {} {hierview} {D0:wave.dump(0)@stimulus(0)@MAINSYSTEM_01(0)@SRAM_01(1)} {0} {+sep=@}
+wv_select_tree_item {Custom WaveView} {} {hierview} {D0:wave.dump(0)@stimulus(0)@MAINSYSTEM_01(0)@UART_XMTR_01(2)} {0} {+sep=@}
+wv_select_tree_item {Custom WaveView} {} {hierview} {D0:wave.dump(0)@stimulus(0)@MAINSYSTEM_01(0)@WRAP_SRAM_01(3)} {0} {+sep=@}
+wv_select_tree_item {Custom WaveView} {} {hierview} {D0:wave.dump(0)@stimulus(0)@MAINSYSTEM_01(0)@WRAP_UART_01(4)} {0} {+sep=@}
+wv_select_tree_item {Custom WaveView} {} {hierview} {D0:wave.dump(0)@stimulus(0)@MAINSYSTEM_01(0)@WRAP_SRAM_01(3)} {0} {+sep=@}
+wv_select_tree_item {Custom WaveView} {} {hierview} {D0:wave.dump(0)@stimulus(0)@MAINSYSTEM_01(0)@UART_XMTR_01(2)} {0} {+sep=@}
+wv_select_window {Custom WaveView} 
+wv_select_waveview 1 {waveview 1}
+wv_select_panel WV1.PANEL1:1 8.01735e-08 -inf
+wv_drag_item_to WV1 365 194
+wv_zoom_x WV1.PANEL1:1 8.01735e-08 1.84542e-06
+wv_select_waveview 1 {waveview 1}
+wv_select_panel WV1.PANEL6:1 1.64918e-06 -inf
+wv_drag_item_to WV1 1514 169
+wv_zoom_x WV1.PANEL6:1 1.64918e-06 1.85056e-06
+wv_ctrl_wheel_down WV1.PANEL6:1 1.78661e-06 inf
+wv_ctrl_wheel_down WV1.PANEL6:1 1.78661e-06 -nan
+wv_ctrl_wheel_down WV1.PANEL6:1 1.78632e-06 -nan
+wv_ctrl_wheel_down WV1.PANEL6:1 1.78632e-06 -nan
+wv_select_waveview 1 {waveview 1}
+wv_select_toolbar_item {Custom WaveView} {waveview 1:1} {Zoom Out} 
+wv_select_waveview 1 {waveview 1}
+wv_select_toolbar_item {Custom WaveView} {waveview 1:1} {Zoom Out} 
+wv_select_waveview 1 {waveview 1}
+wv_select_toolbar_item {Custom WaveView} {waveview 1:1} {Zoom Out} 
+wv_select_waveview 1 {waveview 1}
+wv_select_toolbar_item {Custom WaveView} {waveview 1:1} {Zoom Out} 
+wv_select_waveview 1 {waveview 1}
+wv_select_toolbar_item {Custom WaveView} {waveview 1:1} {Zoom Out} 
+wv_select_waveview 1 {waveview 1}
+wv_select_panel WV1.PANEL1:1 -6.81805e-08 -inf
+wv_drag_item_to WV1 574 193
+wv_zoom_x WV1.PANEL1:1 -6.81805e-08 2.02558e-06
+wv_select_waveview 1 {waveview 1}
+wv_select_panel WV1.PANEL1:1 2.47138e-09 -inf
+wv_drag_item_to WV1 311 181
+wv_zoom_x WV1.PANEL1:1 2.47138e-09 2.03273e-06
+wv_select_window {Custom WaveView} 
+wv_move_window {Custom WaveView} {} 0 0
+wv_move_window {Custom WaveView} {} 8 31
+wv_select_window {Custom WaveView} 
+wv_move_window {Custom WaveView} {} 0 0
+wv_move_window {Custom WaveView} {} 8 31
+wv_select_window {Custom WaveView} 
+wv_move_window {Custom WaveView} {} 0 0
+wv_move_window {Custom WaveView} {} 8 31
+wv_select_window {Custom WaveView} 
