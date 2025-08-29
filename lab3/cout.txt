@@ -1,0 +1,128 @@
+
+Info: (I702) default timescale unit used for tracing: 1 ps (wave.vcd)
+
+@1500 ps:: >>>>>>>>>>>> Start Simulation
+posedge at: 12 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 0 XMT_shftreg: 511 bit_count: 0
+posedge at: 13 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 0 XMT_shftreg: 511 bit_count: 0
+posedge at: 14 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 0 XMT_shftreg: 511 bit_count: 0
+posedge at: 15 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 0 XMT_shftreg: 511 bit_count: 0
+posedge at: 16 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 0 XMT_shftreg: 511 bit_count: 0
+posedge at: 17 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 0 XMT_shftreg: 511 bit_count: 0
+posedge at: 18 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 0 XMT_shftreg: 511 bit_count: 0
+posedge at: 19 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 0 XMT_shftreg: 511 bit_count: 0
+posedge at: 20 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 0 XMT_shftreg: 511 bit_count: 0
+posedge at: 21 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 0 XMT_shftreg: 511 bit_count: 0
+posedge at: 22 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 0 XMT_shftreg: 511 bit_count: 0
+posedge at: 23 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 0 XMT_shftreg: 511 bit_count: 0
+posedge at: 24 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 0 XMT_shftreg: 511 bit_count: 0
+posedge at: 25 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 0 XMT_shftreg: 511 bit_count: 0
+posedge at: 26 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 0 XMT_shftreg: 511 bit_count: 0
+posedge at: 27 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 0 XMT_shftreg: 511 bit_count: 0
+posedge at: 28 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 0 XMT_shftreg: 511 bit_count: 0
+posedge at: 29 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 0 XMT_shftreg: 511 bit_count: 0
+posedge at: 30 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 0 XMT_shftreg: 511 bit_count: 0
+posedge at: 31 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 0 XMT_shftreg: 511 bit_count: 0
+posedge at: 32 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 0 XMT_shftreg: 511 bit_count: 0
+posedge at: 33 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 0 XMT_shftreg: 511 bit_count: 0
+
+@33500 ps:: >>  Write data to SRAM: 0x30
+posedge at: 34 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 000 XMT_shftreg: 1ff bit_count: 00
+posedge at: 35 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 000 XMT_shftreg: 1ff bit_count: 00
+posedge at: 36 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 000 XMT_shftreg: 1ff bit_count: 00
+posedge at: 37 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 000 XMT_shftreg: 1ff bit_count: 00
+posedge at: 38 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 000 XMT_shftreg: 1ff bit_count: 00
+posedge at: 39 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 000 XMT_shftreg: 1ff bit_count: 00
+posedge at: 40 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 000 XMT_shftreg: 1ff bit_count: 00
+posedge at: 41 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 000 XMT_shftreg: 1ff bit_count: 00
+posedge at: 42 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 000 XMT_shftreg: 1ff bit_count: 00
+posedge at: 43 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 000 XMT_shftreg: 1ff bit_count: 00
+posedge at: 44 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 000 XMT_shftreg: 1ff bit_count: 00
+posedge at: 45 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 000 XMT_shftreg: 1ff bit_count: 00
+posedge at: 46 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 000 XMT_shftreg: 1ff bit_count: 00
+posedge at: 47 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 000 XMT_shftreg: 1ff bit_count: 00
+posedge at: 48 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 000 XMT_shftreg: 1ff bit_count: 00
+posedge at: 49 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 000 XMT_shftreg: 1ff bit_count: 00
+posedge at: 50 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 000 XMT_shftreg: 1ff bit_count: 00
+posedge at: 51 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 000 XMT_shftreg: 1ff bit_count: 00
+posedge at: 52 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 000 XMT_shftreg: 1ff bit_count: 00
+posedge at: 53 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 000 XMT_shftreg: 1ff bit_count: 00
+posedge at: 54 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 000 XMT_shftreg: 1ff bit_count: 00
+posedge at: 55 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 000 XMT_shftreg: 1ff bit_count: 00
+
+@55500 ps:: >>  Set SRAM to read mode
+posedge at: 56 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 000 XMT_shftreg: 1ff bit_count: 00
+posedge at: 57 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 000 XMT_shftreg: 1ff bit_count: 00
+posedge at: 58 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 000 XMT_shftreg: 1ff bit_count: 00
+posedge at: 59 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 000 XMT_shftreg: 1ff bit_count: 00
+posedge at: 60 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 000 XMT_shftreg: 1ff bit_count: 00
+posedge at: 61 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 000 XMT_shftreg: 1ff bit_count: 00
+posedge at: 62 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 000 XMT_shftreg: 1ff bit_count: 00
+posedge at: 63 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 000 XMT_shftreg: 1ff bit_count: 00
+posedge at: 64 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 000 XMT_shftreg: 1ff bit_count: 00
+posedge at: 65 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 000 XMT_shftreg: 1ff bit_count: 00
+posedge at: 66 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 000 XMT_shftreg: 1ff bit_count: 00
+posedge at: 67 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 000 XMT_shftreg: 1ff bit_count: 00
+posedge at: 68 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 000 XMT_shftreg: 1ff bit_count: 00
+posedge at: 69 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 000 XMT_shftreg: 1ff bit_count: 00
+posedge at: 70 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 000 XMT_shftreg: 1ff bit_count: 00
+posedge at: 71 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 000 XMT_shftreg: 1ff bit_count: 00
+
+@71500 ps:: >>  Read data from data bus: 0x030
+posedge at: 72 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 000 XMT_shftreg: 1ff bit_count: 00
+posedge at: 73 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 000 XMT_shftreg: 1ff bit_count: 00
+posedge at: 74 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 000 XMT_shftreg: 1ff bit_count: 00
+posedge at: 75 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 000 XMT_shftreg: 1ff bit_count: 00
+posedge at: 76 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 000 XMT_shftreg: 1ff bit_count: 00
+posedge at: 77 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 000 XMT_shftreg: 1ff bit_count: 00
+posedge at: 78 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 000 XMT_shftreg: 1ff bit_count: 00
+posedge at: 79 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 000 XMT_shftreg: 1ff bit_count: 00
+posedge at: 80 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 000 XMT_shftreg: 1ff bit_count: 00
+posedge at: 81 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 000 XMT_shftreg: 1ff bit_count: 00
+posedge at: 82 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 000 XMT_shftreg: 1ff bit_count: 00
+posedge at: 83 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 000 XMT_shftreg: 1ff bit_count: 00
+posedge at: 84 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 000 XMT_shftreg: 1ff bit_count: 00
+posedge at: 85 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 000 XMT_shftreg: 1ff bit_count: 00
+posedge at: 86 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 000 XMT_shftreg: 1ff bit_count: 00
+posedge at: 87 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 000 XMT_shftreg: 1ff bit_count: 00
+posedge at: 88 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 000 XMT_shftreg: 1ff bit_count: 00
+posedge at: 89 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 000 XMT_shftreg: 1ff bit_count: 00
+posedge at: 90 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 000 XMT_shftreg: 1ff bit_count: 00
+posedge at: 91 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 000 XMT_shftreg: 1ff bit_count: 00
+posedge at: 92 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 000 XMT_shftreg: 1ff bit_count: 00
+posedge at: 93 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 000 XMT_shftreg: 1ff bit_count: 00
+posedge at: 94 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 000 XMT_shftreg: 1ff bit_count: 00
+posedge at: 95 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 000 XMT_shftreg: 1ff bit_count: 00
+posedge at: 96 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 000 XMT_shftreg: 1ff bit_count: 00
+posedge at: 97 ns rst_b: 1 current state: 0 Load_XMT_datareg: 1 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 030 XMT_shftreg: 1ff bit_count: 00
+posedge at: 98 ns rst_b: 1 current state: 0 Load_XMT_datareg: 1 Byte_ready: 0 T_byte: 0 Serial_out:1 XMT_datareg: 030 XMT_shftreg: 1ff bit_count: 00
+posedge at: 99 ns rst_b: 1 current state: 1 Load_XMT_datareg: 0 Byte_ready: 1 T_byte: 0 Serial_out:1 XMT_datareg: 030 XMT_shftreg: 061 bit_count: 00
+posedge at: 100 ns rst_b: 1 current state: 1 Load_XMT_datareg: 0 Byte_ready: 1 T_byte: 0 Serial_out:1 XMT_datareg: 030 XMT_shftreg: 061 bit_count: 00
+posedge at: 101 ns rst_b: 1 current state: 1 Load_XMT_datareg: 0 Byte_ready: 1 T_byte: 0 Serial_out:1 XMT_datareg: 030 XMT_shftreg: 061 bit_count: 00
+posedge at: 102 ns rst_b: 1 current state: 1 Load_XMT_datareg: 0 Byte_ready: 1 T_byte: 0 Serial_out:1 XMT_datareg: 030 XMT_shftreg: 061 bit_count: 00
+posedge at: 103 ns rst_b: 1 current state: 2 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 1 Serial_out:1 XMT_datareg: 030 XMT_shftreg: 060 bit_count: 00
+posedge at: 104 ns rst_b: 1 current state: 2 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 1 Serial_out:0 XMT_datareg: 030 XMT_shftreg: 130 bit_count: 01
+posedge at: 105 ns rst_b: 1 current state: 2 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 1 Serial_out:0 XMT_datareg: 030 XMT_shftreg: 198 bit_count: 02
+posedge at: 106 ns rst_b: 1 current state: 2 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 1 Serial_out:0 XMT_datareg: 030 XMT_shftreg: 1cc bit_count: 03
+posedge at: 107 ns rst_b: 1 current state: 2 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 1 Serial_out:0 XMT_datareg: 030 XMT_shftreg: 1e6 bit_count: 04
+posedge at: 108 ns rst_b: 1 current state: 2 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 1 Serial_out:0 XMT_datareg: 030 XMT_shftreg: 1f3 bit_count: 05
+posedge at: 109 ns rst_b: 1 current state: 2 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 1 Serial_out:1 XMT_datareg: 030 XMT_shftreg: 1f9 bit_count: 06
+posedge at: 110 ns rst_b: 1 current state: 2 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 1 Serial_out:1 XMT_datareg: 030 XMT_shftreg: 1fc bit_count: 07
+posedge at: 111 ns rst_b: 1 current state: 2 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 1 Serial_out:0 XMT_datareg: 030 XMT_shftreg: 1fe bit_count: 08
+posedge at: 112 ns rst_b: 1 current state: 2 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 1 Serial_out:0 XMT_datareg: 030 XMT_shftreg: 1ff bit_count: 09
+posedge at: 113 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 1 Serial_out:1 XMT_datareg: 030 XMT_shftreg: 1ff bit_count: 00
+posedge at: 114 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 1 Serial_out:1 XMT_datareg: 030 XMT_shftreg: 1ff bit_count: 00
+posedge at: 115 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 1 Serial_out:1 XMT_datareg: 030 XMT_shftreg: 1ff bit_count: 00
+posedge at: 116 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 1 Serial_out:1 XMT_datareg: 030 XMT_shftreg: 1ff bit_count: 00
+posedge at: 117 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 1 Serial_out:1 XMT_datareg: 030 XMT_shftreg: 1ff bit_count: 00
+posedge at: 118 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 1 Serial_out:1 XMT_datareg: 030 XMT_shftreg: 1ff bit_count: 00
+posedge at: 119 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 1 Serial_out:1 XMT_datareg: 030 XMT_shftreg: 1ff bit_count: 00
+posedge at: 120 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 1 Serial_out:1 XMT_datareg: 030 XMT_shftreg: 1ff bit_count: 00
+posedge at: 121 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 1 Serial_out:1 XMT_datareg: 030 XMT_shftreg: 1ff bit_count: 00
+posedge at: 122 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 1 Serial_out:1 XMT_datareg: 030 XMT_shftreg: 1ff bit_count: 00
+posedge at: 123 ns rst_b: 1 current state: 0 Load_XMT_datareg: 0 Byte_ready: 0 T_byte: 1 Serial_out:1 XMT_datareg: 030 XMT_shftreg: 1ff bit_count: 00
+
+@123500 ps:: >>>>>>>>>>>> End Simulation
+
+@123500 ps:: >>>>>>>>>>>> Start Simulation
+
+Info: /OSCI/SystemC: Simulation stopped by user.
